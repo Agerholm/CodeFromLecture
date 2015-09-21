@@ -1,4 +1,4 @@
-import java.util.Random;
+import java.util.Random;// YO DANNI
 
 public class FriendlySoccerMatch implements FriendlyMatch {
 	private String nameHomeTeam;
